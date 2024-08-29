@@ -1,1 +1,1 @@
-hi im narendra ,doing my first git repo
+hi i'm Narendra,now i will try to push a commit
